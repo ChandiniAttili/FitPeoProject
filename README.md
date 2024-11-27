@@ -81,12 +81,12 @@ Compile the script:
 
 bash
 Copy code
-javac -cp ".;path/to/selenium-java.jar" Assignment.java
+javac -cp ".;path/to/selenium-java.jar" FitPeoAssignment.java
 Replace path/to/selenium-java.jar with the actual path to your Selenium JAR file.
 
 Run the script:
 
 bash
 Copy code
-java -cp ".;path/to/selenium-java.jar" org.example.Assignment
+java -cp ".;path/to/selenium-java.jar" org.example.FitPeoAssignment
 Observe the browser actions performed by the script.
